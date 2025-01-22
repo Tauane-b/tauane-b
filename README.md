@@ -1,7 +1,7 @@
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tauane Barros=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauane&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Tauane-b">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tauane-b&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauane-b&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -13,10 +13,5 @@
 <br>
  
 
+
  
-<div> 
-  <a href="https://instagram.com/hi-tauanns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href = "mailto:tauane_aninha@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
