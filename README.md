@@ -1,4 +1,16 @@
+## 👋 Oi, eu sou a Tauane!
 
+Sou **Desenvolvedora Front-end em formação**, apaixonada por criar interfaces modernas, responsivas e bem estruturadas.
+
+### 🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+### 📚 Atualmente aprendendo
+- Responsividade avançada
+- Boas práticas de Front-end
+- Projetos reais para portfólio
 
 <div align="center">
   <a href="https://github.com/tauane-b">
