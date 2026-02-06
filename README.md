@@ -1,4 +1,4 @@
-👋 Oi! Eu sou a Tauane Barros
+##👋 Oi! Eu sou a Tauane Barros
 
 Sou Desenvolvedora Front-end em formação, focada em criar interfaces modernas, responsivas e bem estruturadas, com atenção à experiência do usuário e boas práticas de código.
 
