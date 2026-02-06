@@ -1,18 +1,28 @@
-## 👋 Oi, eu sou a Tauane!
+👋 Oi! Eu sou a Tauane Barros
 
-Sou **Desenvolvedora Front-end em formação**, apaixonada por criar interfaces modernas, responsivas e bem estruturadas.
+Sou Desenvolvedora Front-end em formação, focada em criar interfaces modernas, responsivas e bem estruturadas, com atenção à experiência do usuário e boas práticas de código.
 
-### 🚀 Tecnologias
-- HTML5
-- CSS3
-- JavaScript
+## 🚀 Tecnologias
+- HTML5 (semântica e acessibilidade)
+- CSS3 (Flexbox, Grid e responsividade)
+- JavaScript (fundamentos)
 
-### 📚 Atualmente aprendendo
-- Responsividade avançada (Mobile First)
+## 📚 Atualmente aprendendo
+- Design responsivo avançado (Mobile First)
 - Boas práticas de Front-end
 - Desenvolvimento de projetos reais para portfólio
+- Versionamento de código com Git e GitHub
 
-✨ *Sempre buscando evoluir como desenvolvedora Front-end*
+## 🧩 Projetos -Ultimos projetos.
+- 🥚 Simple Omelette Recipe  
+  Projeto focado em HTML semântico, CSS organizado e layout responsivo.
+
+- 📦 Order Summary Card  
+  Desafio do Frontend Mentor com foco em fidelidade ao layout e responsividade.
+  
+
+✨ Sempre em evolução, buscando aprender na prática e construir soluções cada vez melhores em Front-end.
+
 
 <div align="center"><br>
   <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
