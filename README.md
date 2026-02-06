@@ -1,25 +1,19 @@
-##👋 Oi! Eu sou a Tauane Barros
+#👋 Oi! Eu sou a Tauane Barros
 
-Sou Desenvolvedora Front-end em formação, focada em criar interfaces modernas, responsivas e bem estruturadas, com atenção à experiência do usuário e boas práticas de código.
+👩‍💻 Desenvolvedora Front-end Júnior em transição de carreira, focada na criação de interfaces modernas, responsivas e acessíveis.
 
-## 🚀 Tecnologias
-- HTML5 (semântica e acessibilidade)
-- CSS3 (Flexbox, Grid e responsividade)
-- JavaScript (fundamentos)
+Atualmente em formação pelo Bootcamp de Front-end da DevQuest, onde desenvolvo projetos práticos utilizando HTML, CSS, JavaScript (ES6+), React e Git, aplicando boas práticas de organização de código, responsividade e experiência do usuário.
 
-## 📚 Atualmente aprendendo
-- Design responsivo avançado (Mobile First)
-- Boas práticas de Front-end
-- Desenvolvimento de projetos reais para portfólio
-- Versionamento de código com Git e GitHub
+Tenho experiência no desenvolvimento de landing pages, páginas institucionais e componentes interativos, sempre buscando transformar layouts em interfaces funcionais, bem estruturadas e fiéis ao layout.
 
-## 🧩 Projetos -Ultimos projetos.
-- 🥚 Simple Omelette Recipe  
-  Projeto focado em HTML semântico, CSS organizado e layout responsivo.
+Minha experiência anterior como Auxiliar Administrativo contribuiu para o desenvolvimento de habilidades como organização, comunicação e resolução de problemas, que aplico no dia a dia como desenvolvedora.
 
-- 📦 Order Summary Card  
-  Desafio do Frontend Mentor com foco em fidelidade ao layout e responsividade.
-  
+🚀 Busco minha primeira oportunidade como Desenvolvedora Front-end Júnior para aprender com o time, contribuir com soluções reais e evoluir tecnicamente.
+
+🔗 Aqui no GitHub compartilho meus projetos e estudos, e estou aberta a conexões e novas oportunidades.
+
+
+
 
 ✨ Sempre em evolução, buscando aprender na prática e construir soluções cada vez melhores em Front-end.
 
